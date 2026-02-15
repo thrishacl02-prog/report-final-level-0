@@ -315,7 +315,8 @@ The circuit I used to accomplish the task:
 
 Here is the image of my work:
 
-![alt text](image.png)
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/e9f49a13-1467-4383-a1b9-ee91ac0fdde1" />
+
 
 [Click](https://www.youtube.com/shorts/CKhZFmvyIRU?feature=share) here for the video.
 
