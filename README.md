@@ -51,6 +51,12 @@ In 3D printing, Slicer settings are the instructions that tell the hardware how 
 store filament in dry box or sealed bag with silica gel to prevent it from absorbing moisture,which causes sounds and brittle prints .
 Below is the image of my 3D printed model:
 
+Here is the image of the 3D printed model:
+
+![3d model](https://github.com/user-attachments/assets/67d797ba-c841-4840-9ba6-84ee5016de1c)
+
+
+---
 ### TASK 2: API
 ---
 ### OBJECTIVE:
@@ -69,6 +75,7 @@ Below is the image of weather app built using open weather API:
 
 [Click here](https://youtu.be/rYtEnbnfQ_8) for the video.
 
+---
 ### TASK 03: GITHUB
 ---
 
@@ -88,6 +95,7 @@ Here is the image of my work :
 
 [Click](https://github.com/thrishacl02-prog/git-task.git) to view the changes made.
 
+---
 ### TASK 04: UBUNTU
 ---
 ### OBJECTIVE:Command Line on Ubuntu
@@ -122,6 +130,7 @@ Here is the image of the subtasks :
 
 ![image](https://github.com/user-attachments/assets/97a6e551-dca9-4578-bfa1-c5d4395828c4)
 
+---
 ### TASK 5: Build Your Own Brain -Linear Regression from Scratch
 ---
 
@@ -150,6 +159,7 @@ here is the image of the graph:
 
 [Click](https://github.com/thrishacl02-prog/linear-regression.git) to view the repository.
 
+---
 ### TASK 6: The Matrix Puzzle — Decode with NumPy & Reveal the Image
 ---
 
@@ -183,7 +193,7 @@ Here is the image of my work:
 
 
 
-
+---
 ### TASK 7: PORTFOLIO WEBPAGE
 ---
 ### OBJECTIVE: Create a Portfolio Webpage
@@ -197,6 +207,7 @@ Here is the portfolio webpage:
 
 [Click here](https://github.com/thrishacl02-prog/portfolio-website.git) to view git repository.
 
+---
 ### TASK 8 MARKDOWN
 ---
 ### OBJECTIVE:
@@ -214,8 +225,15 @@ Markdown is a markup language used to format plain text. Write a technical resou
 
 3. I Learnt to write the report using markdown.
 
-Refer to the resource article here:
+Refer to the resource article here
 
+
+[UAVs in Precision Agriculture](uav.md)
+
+
+[Click here](https://github.com/thrishacl02-prog/article.git) to view my resource article.
+
+---
 ### TASK 9: TINKERCAD
 ---
 ### OBJECTIVE: 
@@ -261,6 +279,7 @@ Click on these links to tinker the circuits
 
 [Click](https://www.tinkercad.com/things/1BkmYzxsV64-radar) here to tinker radar.
 
+---
 ### TASK 10: Speed Control of DC Motor
 ---
 ### OBJECTIVE: 
@@ -280,6 +299,7 @@ Components includes :
 
 [Click](https://youtu.be/l3yFOxI_kbs) here for the video .
 
+---
 ### TASK 11: LED Toggle Using ESP32
 ---
 #### OBJECTIVE:
@@ -320,6 +340,7 @@ Here is the image of my work:
 
 [Click](https://www.youtube.com/shorts/CKhZFmvyIRU?feature=share) here for the video.
 
+---
 ### TASK 12: Soldering Prerequisites
 ---
 ### OBJECTIVE: 
@@ -341,6 +362,7 @@ Learnt desoldering.Type of solder commonly used(it's composition), heating tenpe
 
   [Click](https://youtu.be/kTURB6QboNY) here.
 
+---
  ### TASK 13: Design a 555 Astable Multivibrator
  ---
 
@@ -381,6 +403,252 @@ Here is the image of output:
 
 ![WhatsApp Image 2026-02-14 at 2 25 22 PM](https://github.com/user-attachments/assets/2d6d1ef0-49c4-4051-89d2-5b90221f4121)
 ![WhatsApp Image 2026-02-14 at 2 25 28 PM](https://github.com/user-attachments/assets/dabc7e5b-68eb-4f2e-87d8-8b5e3b93c47c)
+
+---
+# Task 15: Introduction to VR
+
+
+### OBJECTIVE:
+
+Familiarise yourself with what Virtual Reality is. Make a detailed study about what's the difference between VR and AR. Mention about the trends in the space and technology stack being developed. Make about Indian companies in this space. Make the report with detail. 
+
+### OUTCOMES AND LEARNINGS:
+
+Virtual reality is the computer generated 3D environment that simulates reality using headsets,sensors and controllers to create immersive experience. It blocks the physical world and tracks user movements.
+This task was fun. I experienced the space atmosphere in this task.From this task i learnt many like;
+
+How actually the VR works:
+
+ * Stereoscopic Display: Headsets use two slightly different images for each eye (simulating how our eyes actually work) to create a sense of depth.
+
+ * Head Tracking (6DOF): Sensors (gyroscopes, accelerometers, and cameras) track your head's movement in "Six Degrees of Freedom." If you lean forward, look up, or crouch, the virtual world moves with you in real-time.
+
+ * Field of View (FOV): To feel immersive, VR headsets aim for a wide FOV (usually 100 degree to 110 degree or more) so you don't feel like you are looking through binoculars.
+
+ * Refresh Rate: To prevent motion sickness, the images must update very fast—usually 90 to 120 frames per second (fps). Anything slower causes a "lag" that confuses the inner ear.
+
+ The Three Levels of Immersion
+| Type | Description | Example |
+|---|---|---|
+| Non-Immersive | You view a 3D environment on a 2D screen but stay aware of your surroundings. | Playing Minecraft on a laptop. |
+| Semi-Immersive | A mix of physical and digital; often used for high-end training. | A flight simulator with a physical cockpit and wrap-around screens. |
+| Fully Immersive | Total sensory detachment from the real world using a headset and haptics. | Using a Meta Quest or Apple Vision Pro to "walk" on Mars. |
+
+Key Components of a VR System
+ * The Headset (HMD): The primary hardware (e.g., Valve Index, Meta Quest).
+ * Input Devices: Motion controllers, gloves, or even "treadmills" that allow you to walk in place.
+ * The Content Engine: The software (often built in Unity or Unreal Engine) that renders the physics, lighting, and 3D models.
+
+
+
+# Difference Between Virtual Reality (VR) and Augmented Reality (AR)
+
+## 1. Virtual Reality (VR)
+
+Virtual Reality (VR) is a technology that creates a completely **virtual environment** using computer-generated simulations.  
+Users wear a **VR headset** and are fully immersed in a digital world, blocking the real environment.
+
+**Examples**
+- VR gaming
+- Flight simulators
+- Virtual tours
+- Training simulations
+
+---
+
+## 2. Augmented Reality (AR)
+
+Augmented Reality (AR) is a technology that **adds digital elements to the real world**.  
+Users can still see their real surroundings while virtual objects appear on top of them.
+
+**Examples**
+- Pokemon GO
+- AR filters on social media
+- AR navigation
+- Virtual furniture placement apps
+
+---
+
+## 3. Differences Between VR and AR
+
+| Feature | Virtual Reality (VR) | Augmented Reality (AR) |
+|--------|----------------------|------------------------|
+| Environment | Completely virtual | Real world with digital objects |
+| Device Used | VR Headset | Smartphone / AR glasses |
+| Real World Visibility | Not visible | Visible |
+| Immersion | Fully immersive | Partially immersive |
+| Usage | Gaming, training, simulations | Navigation, education, mobile apps |
+---
+
+ VR in the Space Sector:
+1. Astronaut Training: The "Digital Neutral Buoyancy"
+Traditionally, astronauts trained in giant swimming pools (Neutral Buoyancy Labs). In 2026, VR has upgraded this process:
+ * Underwater VR: Startups like Raytracer have developed waterproof VR headsets. Astronauts wear these while submerged to simulate the visual layout of the ISS or the Moon while feeling the physical sensation of buoyancy.
+ * EVA Rehearsals: Before a spacewalk (Extra-Vehicular Activity), astronauts use VR to practice specific maneuvers, like repairing a solar array, using high-fidelity physics engines that mimic how objects move in zero-G.
+ * Artemis Lunar Prep: NASA and its partners use VR to recreate the lunar South Pole. Because the sun sits at a low angle there, creating long, disorienting shadows, VR helps astronauts practice navigating this tricky lighting before they land.
+2. Mental Health: The "Virtual Sanctuary"
+On long-duration missions (like those planned for Mars), isolation is a major risk.
+ * Sensory Stimulation: VR provides a "happiness break" by transporting astronauts to terrestrial environments—like a forest in the rain or a beach—to combat "sensory deprivation."
+ * Social Connection: Using Spatial Computing, astronauts can sit in a virtual living room with 3D avatars of their families back on Earth, making the distance feel less immense.
+3. Space Operations & Maintenance
+ * Telepresence Robotics: Engineers on Earth can wear VR headsets to "see" through the cameras of a robot on the Moon or a satellite. They can move their own hands to control robotic arms, performing complex repairs as if they were physically there.
+ * Digital Twins: Every Indian satellite or rocket now has a "Digital Twin." Before sending a command to a satellite, engineers test it in a VR simulation to see how the hardware will react in the current orbital conditions.
+4. Indian Companies Using VR in Space & Tech
+
+India’s "NewSpace" ecosystem is heavily integrating VR/AR into their workflows:
+| Company | VR/Tech Application |
+|---|---|
+| ISRO (HSFC) | Uses VR Theatres and labs to train the Gaganauts for India’s human spaceflight missions. |
+| Vizara Technologies | An IIT-Delhi startup that creates 3D replicas and MR environments for heritage and complex technical documentation. |
+| Simulanis | Focuses on high-stakes industrial VR training, including "confined space entry" simulations critical for spacecraft technicians. |
+| Digantara | While focused on space debris, they use high-end 3D visualizations (spatial data) to map and "walk through" the crowded orbital environment. |
+
+[Click here](https://www.youtube.com/shorts/2-wZpJqYmcY?feature=share) to view the video.
+
+---
+# Aviation domain specific tasks:
+
+# TASK 01:
+### OBJECTIVE:
+To learn about the history of Aviation & Drones.
+### OUTCOMES AND LEARNINGS:
+
+Learnt to use notion and draw.io .
+Learnt about the history of aviation and drones.
+
+Aviation sector contributes about 3.5 trillion dollars to GDP.Development in Aviation depends on emerging economies.
+
+Here is the flowchart built using draw.io that shows the history of aviation:
+
+![image](diagram.png)
+
+---
+
+# TASK-02: 
+Introduction to Flight Simulators
+
+
+
+### OBJECTIVE: 
+
+ To learn manual controls, stability handling, and motor mixing using a drone simulator.
+
+ ### OUTCOMES AND LEARNINGS:
+ >In this task I learnt  different techniques for holding an FPV radio controller to ensure consistent flight performance . 
+
+Main Techniques:
+
+* Thumbing : Using just your thumbs on the gimbals, popular with ergonomic, Xbox-style controllers like the Tango 2 .
+
+* Pinching : Using the thumb and index finger to manipulate the sticks, offering higher precision, often used by 3D helicopter pilots .
+
+* Hybrid Pinch : A combination of thumbing and pinching that provides extra security against the stick slipping .
+
+Additional Gear:
+
+Lanyard : Recommends using a neck strap to stabilize the radio, especially for heavier units, acting as a third point of contact.
+
+>Channels of the transmitter:
+I understood  the components of the  transmitter and operations involved in it.
+
+![image](transmitter.jpeg)
+
+
+
+| Motion | Axis | Transmitter Stick (Mode 2) | Physical Action |
+| :--- | :--- | :--- | :--- |
+| **Roll** | Longitudinal | Right Stick (Left/Right) | Tilted Sideways |
+| **Pitch** | Lateral | Right Stick (Up/Down) | Nose Up/Down |
+| **Yaw** | Vertical | Left Stick (Left/Right) | Nose Left/Right |
+| **Throttle**| Vertical | Left Stick (Up/Down) | Increase/Decrease Altitude |
+
+![image](thrisha.png)
+![image](thrisha2.png)
+
+I also understood the control of drone by the operations roll,yaw and pitch.
+Learnt motor mixing algorithms in the drone.
+
+Designing a control system for a quadcopter to hover at a fixed altitude. It establishes the groundwork by explaining the drone's hardware, actuators, and the under-actuated nature of its control problem.
+
+Key Highlights:
+
+* Hardware and Sensors
+* Actuators and Configuration 
+* Controlling Degrees of Freedom
+* The Control Problem
+
+---
+
+# TASK 03:
+
+### OBJECTIVE:
+To learn about and operate the Airblock Drone available in the lab.
+
+### OUTCOMES AND LEARNINGS:
+
+### Flying the Airblock Drone
+
+## Introduction
+The Airblock Drone is a modular educational drone designed by Makeblock. It allows  to learn the basics of drone technology, aerodynamics, and programming.
+
+## Application Used
+The drone is operated using the **Makeblock App**.  
+The app connects to the drone using Bluetooth and allows manual control and programming.
+
+## Type of Motors
+The drone uses **Brushless DC Motors (BLDC)** which provide high efficiency, longer life, and stable flight performance.
+
+## Material of the Drone
+The Airblock drone is made of **Expanded Polypropylene (EPP) foam** which is lightweight, durable, and shock resistant.
+
+## Propellers
+The drone uses lightweight **plastic propellers** designed for stable flight.  
+Each motor has either clockwise (CW) or counter-clockwise (CCW) propellers.
+
+## Battery Details
+Battery Type: Lithium Polymer (Li-Po)  
+Voltage: 3.7V  
+Capacity: 700mAh (approx)  
+Flight Time: Around 8 minutes
+
+## Flight Path
+During the lab session, the drone was flown along a path specified.
+
+Example Path:
+- Takeoff
+- Move forward
+- Turn left
+- Hover
+- Land
+
+
+
+## Outcome
+- Learned about drone components
+- Understood BLDC motors and propellers
+- Operated the drone using Makeblock App
+- Successfully flew the drone along a specified path
+
+
+![image](A1.jpg)
+![image](A2.jpg)
+![image](A3.jpg)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
